@@ -1,7 +1,7 @@
 {
   "name": "template-px2rem-loader",
   "version": "1.0.6",
-  "description": "",
+  "description": "一个可以将 将 vue 中 template 内连样式 px 转换为 rem 的 laoder",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,9 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chunhuigao/template-px2rem-loader.git"
+    "url": "https://github.com/chunhuigao/template-px2rem-loader.git"
   },
-  "keywords": [],
+  "keywords": [
+    "vue",
+    "template",
+    "style",
+    "内联样式",
+    "rem",
+    "px"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
