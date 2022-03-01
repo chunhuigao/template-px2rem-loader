@@ -1,6 +1,6 @@
 {
   "name": "template-px2rem-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/chunhuigao/template-px2rem-loader/issues"
   },
-  "homepage": "https://github.com/chunhuigao/template-px2rem-loader#readme"
+  "homepage": "https://github.com/chunhuigao/template-px2rem-loader#readme",
+  "devDependencies": {
+    "loader-utils": "^3.2.0"
+  }
 }
